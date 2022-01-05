@@ -1,0 +1,48 @@
+
+            div{
+                background-color: rgb(236, 170, 29);
+                width: 450px;
+                height: 450px;
+                margin-left: 400px;
+                margin-top: 00px;
+            }
+            h1{
+                text-align: center;
+                color: rgb(255, 255, 255);
+                font-size: 30px;
+            }
+            label{
+                text-align: center;
+                color: white;
+                font-size: 35px;
+                margin-left: 100px;
+            }
+            input[type=text],[type=password]{
+                text-align: center;
+                width: 250px;
+                height: 30px;
+                margin-left: 100px;
+                border-radius: 7px;
+                border: 2px solid black;
+                font-size: 20px;
+                background-color: seashell;
+            }
+            input[type=submit]{
+                background-color: blue;
+                color: pink;
+                font-size: 24px;
+                margin-left: 200px;
+                width: 120px;
+                height: 40px;
+                border-radius: 10px;
+           
+            a{
+                color: rgb(241, 24, 24);
+                font-size: 28px;
+                text-decoration: none;
+                padding: 10px;
+            }
+            h2{
+                font-size: 100pt;
+                color: tomato;
+            }
